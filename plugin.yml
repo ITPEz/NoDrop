@@ -1,0 +1,5 @@
+name: NoDrop
+main: NoDrop\Main
+author: ITPEz
+version: 1.0
+api: [2.0.0]
